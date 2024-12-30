@@ -1,2 +1,2 @@
-# dec24-leetcode-solns
+# leetcode-solns
 Collection of LeetCode solutions
