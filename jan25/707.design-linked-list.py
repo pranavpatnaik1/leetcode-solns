@@ -27,7 +27,7 @@ class MyLinkedList(object):
         :type val: int
         :rtype: None
         """
-        
+        self.head
 
     def addAtTail(self, val):
         """
